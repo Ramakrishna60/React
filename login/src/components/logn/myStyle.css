@@ -1,0 +1,60 @@
+#form-control {
+	border-radius: 0;
+  width:"40px";
+	border: 1px solid #fff;
+}
+fieldset{
+  padding: 0 40px 40px 40px;
+ 
+}
+i{
+  color: #ffae00;
+}
+.form1 {
+  /* The image used */
+  /* background:#1c1e21 url(https://static.pexels.com/photos/8819/warsaw.jpg); */
+background: url("/assets/login.jpg");
+  height: 942px;
+
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+
+br{
+ background-color: lavender; 
+}
+.row{
+  background-color: lavender;
+  border-radius: 18px;
+      margin-left: 50px;
+  
+}
+
+/* Add styles to the form container */
+.containeras {
+  /* background-color:green; */
+  background: url("/assets/form.jpg");
+  /* position: absolute;
+  right: 210px;
+  margin: 100px;
+  max-width: 500px;
+  border-radius: 10px;
+  padding: 0; */
+  margin-left: 1022px;
+  width: 525px;
+
+}
+  
+h2{
+  color:rgb(255, 47, 99);
+  
+}
+b{
+  color:rgb(0, 30, 128);
+  font-family: sans-serif;
+}
